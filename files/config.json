@@ -1,0 +1,47 @@
+{
+    "melbet": [
+        "https://melbet.ru/line/",
+        "https://melbet.ru/line/tennis/",
+        "https://melbet.ru/line/table-tennis/",
+        "https://melbet.ru/live/"
+    ],
+    "fonbet": [
+        "https://www.fonbet.ru/sports/",
+        "https://www.fonbet.ru/sports/tennis/",
+        "https://www.fonbet.ru/sports/table-tennis/"
+    ],
+    "1xstavka": [
+        "https://1xstavka.ru/line/"
+    ],
+    "betboom":[
+        "https://betboom.ru/sport/Upcoming/1546#events/1546"
+    ]
+    ,
+    "type_stake": [
+        "line",
+        "line",
+        "line"
+    ],
+    "time_update": [
+        "06-01-2022-13:20",
+        "06-01-2022-13:20",
+        "06-01-2022-13:20"
+    ],
+    "postgresql_config":
+    {
+        "database": "almaz_db",
+        "user_name_db": "almaz",
+        "password": "02153",
+        "host": "localhost",
+        "port": "5432",
+        "list_csv_files": ["result_table_1.csv", "result_table_2.csv", "result_table_3.csv", "result_table_4.csv",
+            "result_table_5.csv", "result_table_5_1.csv"]
+    },
+    "schedule":
+    {
+        "seconds": 0,
+        "minutes": 20,
+        "hours": 0,
+        "days": 0
+    }
+}
